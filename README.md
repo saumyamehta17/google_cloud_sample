@@ -1,5 +1,9 @@
 # README
 
+## Introduction
+
+### Hello World Application deployed on google cloud platform using Apache, Passenger, Mysql. One Resource is added after all setup and deployed using capistrano.
+
 ## Dependecies
 
 * Ruby 2.3.1
@@ -21,4 +25,6 @@
 * Application Server Passenger
 
 * Database Mysql
+
+* Scripting Tool Capistrano
 
