@@ -2,7 +2,7 @@
 
 ## Introduction
 
-### Hello World Application deployed on google cloud platform using Apache, Passenger, Mysql. One Resource is added after all setup and deployed using capistrano.
+Hello World Application deployed on google cloud platform using Apache, Passenger, Mysql. One Resource is added after all setup and deployed using capistrano.
 
 ## Dependecies
 
