@@ -41,6 +41,8 @@ group :development, :test do
   gem 'selenium-webdriver'
   gem "capistrano", "~> 3.10", require: false
   gem "capistrano-rails", "~> 1.4", require: false
+  gem "capistrano-bundler", "~> 1.3"
+  gem 'capistrano-rvm', github: "capistrano/rvm"
 end
 
 group :development do

@@ -8,7 +8,7 @@ set :repo_url, "https://github.com/saumyamehta17/google_cloud_sample.git"
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
 # Default deploy_to directory is /var/www/my_app_name
-# set :deploy_to, "/var/www/my_app_name"
+set :deploy_to, "/home/smehta1289/google_cloud_sample"
 
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
