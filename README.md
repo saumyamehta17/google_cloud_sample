@@ -1,24 +1,24 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Dependecies
 
-Things you may want to cover:
+* Ruby 2.3.1
 
-* Ruby version
+* MySql
 
-* System dependencies
+## Steps
 
-* Configuration
+* bundle install
 
-* Database creation
+* cap production deploy
 
-* Database initialization
+## Additional Information
 
-* How to run the test suite
+* Project is deployed on Google Cloud Platform
 
-* Services (job queues, cache servers, search engines, etc.)
+* WebServer Apache
 
-* Deployment instructions
+* Application Server Passenger
 
-* ...
+* Database Mysql
+
